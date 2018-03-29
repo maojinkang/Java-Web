@@ -1,0 +1,9 @@
+add1.jsp 管理员添加学生
+index.jsp 主页
+login.jsp 登录
+out.jsp 安全退出
+test.jsp 测试页面
+top.jsp 公共头部
+register.jsp 注册
+Sinfomation.jsp 个人信息查询
+upDataPassWord.jsp 修改密码
